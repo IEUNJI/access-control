@@ -1,5 +1,11 @@
 # access-control
 
+## 开始
+
+- 安装依赖 `npm install`
+- 运行后端服务文件 `src/server/server.js`
+- 启动项目 `npm run serve`
+
 ## Project setup
 ```
 npm install
