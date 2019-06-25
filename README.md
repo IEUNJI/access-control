@@ -1,5 +1,11 @@
 # access-control
 
+## 简介
+
+基于 Vue 的权限控制模型
+
+[参考链接](./NOTE.md)
+
 ## 开始
 
 - 安装依赖 `npm install`
